@@ -25,6 +25,18 @@ INSUR（保险币）是由新加坡Xlab基金会发布的针对全球的去中�
 
 注册链接：[https://lives.uu.me/invite/register?code=j1imbr](https://lives.uu.me/invite/register?code=j1imbr)
 
+#### 金融链
+
+重点推荐，比特超人，金融链官方糖果，注册送10000比特超人，免实名，已经预定2个交易平台。
+
+推荐原因：
+1、金融链有一定规模（代码JRC），项目官方网站www.finchain.info，有自己的钱包，项目介绍非常详细，商业、技术、经济白皮书一应俱全。
+2、金融链JRC已经上线3家交易所，不是空气币。
+3、比特超人是金融链官方发行的糖果token，从域名可见，且需要绑定金融链，值得信任。
+
+注册链接：[http://coin.finchain.info/token/ff4135121496f89863c649d5f5176634](http://coin.finchain.info/token/ff4135121496f89863c649d5f5176634)
+
+
 #### GRAM
 Telegram是区块链领域最知名的社交软件，连币安、火币网、Gateio比特儿国际站、非小号等知名平台都在使用，现在gram可以无缝对接telegram，所有消息和设置实时同步，其平台和团队实力毋庸置疑。
 GRAM目前已经登录ZB（目前单价2分），且即将登陆全球前10的大型交易所。时不我待，赶紧拥有。
