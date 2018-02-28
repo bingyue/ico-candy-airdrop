@@ -22,7 +22,7 @@ INSUR（保险币）是由新加坡Xlab基金会发布的针对全球的去中�
 
 #### Prabox
 
-春节上线到3月份活动较多，每天可以领取Pra以及多个代币糖果，价值近百元。
+春节上线到3月份活动较多，每天可以领取Pra以及多个代币糖果。
 
 [http://mp.weixin.qq.com/s/iDzcuHKeJjkEemI6UUS5xQ](http://mp.weixin.qq.com/s/iDzcuHKeJjkEemI6UUS5xQ)
 
