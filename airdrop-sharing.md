@@ -6,7 +6,7 @@
 2. 通过app挖矿，例如网易星球、公信宝，需要定时收取
 3. 通过电报群空投到钱包的，这种比较多，需要配合使用Telegram，钱包
 
-在不了解的情况下不要参与ICO，更不要随便转账Eth。
+币圈风险多，在不了解的情况下不要参与ICO，更不要随便转账Eth。
 
 #### GXS 
 
@@ -43,6 +43,22 @@ INSUR（保险币）是由新加坡Xlab基金会发布的针对全球的去中�
 
 注册链接：[http://coin.finchain.info/token/ff4135121496f89863c649d5f5176634](http://coin.finchain.info/token/ff4135121496f89863c649d5f5176634)
 
+#### Tripio
+
+由 OKBlockchain Capital、BlockVC、 INBlockchain、NodeCapital、Genesis Capital 、FreeS Fund、Ceyuan Ventures、F2Pool，波场等多家著名基金共同投资的，全球首款区块链旅行住宿平台—Tripio，第二轮空投360万TRIO，注册即送18枚TRIO，送完即止。TRIO将在不久正式上线，支持多种数字货币直接预订客房。 
+
+[http://candy.trip.io/tripio/?code=T-NKGP30KLQ&channelid=h5ecotechb](http://candy.trip.io/tripio/?code=T-NKGP30KLQ&channelid=h5ecotechb)
+
+Tips：收藏链接，随时查看糖果数。
+
+#### 币乎社区
+
+币乎社区注册领KEY啦， 最高14万KEY，赶紧看看。
+邀请链接：
+[https://zt.bihu.com/?id=216935](https://zt.bihu.com/?id=216935)
+
+交易页面，目前每个价值0.006USD。
+[https://bb.otcbtc.com/exchange/markets/keybtc](https://bb.otcbtc.com/exchange/markets/keybtc)
 
 #### GRAM
 Telegram是区块链领域最知名的社交软件，连币安、火币网、Gateio比特儿国际站、非小号等知名平台都在使用，现在gram可以无缝对接telegram，所有消息和设置实时同步，其平台和团队实力毋庸置疑。
