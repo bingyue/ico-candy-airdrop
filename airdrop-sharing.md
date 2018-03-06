@@ -26,7 +26,7 @@ INSUR（保险币）是由新加坡Xlab基金会发布的针对全球的去中�
 
 [http://mp.weixin.qq.com/s/iDzcuHKeJjkEemI6UUS5xQ](http://mp.weixin.qq.com/s/iDzcuHKeJjkEemI6UUS5xQ)
 
-### BitUN
+#### BitUN
 
 多位金融大佬+顶级区块链研发团队联手打造2018年最具潜力区块链项目，注册送500 BUC，填写邮箱再分1亿 BUC，注册简单。BUC发行总量20亿，3月10号开启ICO（19号结束），3月23号发币。BUC的ICO单价约1元，相当于注册就送500元，并且看涨。
 
