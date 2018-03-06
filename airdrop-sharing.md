@@ -26,6 +26,19 @@ INSUR（保险币）是由新加坡Xlab基金会发布的针对全球的去中�
 
 [http://mp.weixin.qq.com/s/iDzcuHKeJjkEemI6UUS5xQ](http://mp.weixin.qq.com/s/iDzcuHKeJjkEemI6UUS5xQ)
 
+### BitUN
+
+多位金融大佬+顶级区块链研发团队联手打造2018年最具潜力区块链项目，注册送500 BUC，填写邮箱再分1亿 BUC，注册简单。BUC发行总量20亿，3月10号开启ICO（19号结束），3月23号发币。BUC的ICO单价约1元，相当于注册就送500元，并且看涨。
+
+推荐原因：
+1、基于闪电网络的跨链钱包很有亮点，在现在各种币越来越多的市场下，该项目的愿景更有落地的可能，比较看好。
+2、网站制作极其精良，白皮书等各种介绍非常正规、完整，就连各个渠道的介绍文字也非常完备，很罕见，时间轴也很明确。
+
+[https://bucc.bit.global/?code=AEQ7L6](https://bucc.bit.global/?code=AEQ7L6)
+
+The Most Promising Blockchain Project in 2018! BitUN, a cross-chain wallet based on Lightning Network 2.0 Technology and an on-chain ICO store with Smart Contract Empowered. Airdrop is Coming! Get 500 BUCC for registration! 
+
+
 #### LVT 
 遨游浏览器挖矿，只要使用浏览器正常访问（单独的挖矿浏览器，pc和app均可），就可以获得共生币（LVT），一天一般能获得几十到几百个，看使用频率。
 
